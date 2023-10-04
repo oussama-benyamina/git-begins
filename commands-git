@@ -6,3 +6,6 @@ git add .
 git commit -m "Message du commit"
 git push
 
+# Pour effectuer un pull depuis le repository distant
+git pull origin master
+Ajout de la commande pull
